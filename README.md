@@ -9,7 +9,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://prtofolio-dun.vercel.app/">
+  <a href="https://porto-web-chi.vercel.app/">
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-4285F4?logo=portfolio&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.instagram.com/fllost.0/">
